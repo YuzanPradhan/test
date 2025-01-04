@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cb5xBsKhQDsht517Kpyx33feYReUDDvokqVVaYE27ok=",
+  "Hash": "qVXPQj1QZanW85MZ54HGZuD4MTblHXd2Rhs6SscPe2g=",
   "Source": "Coursework-BudgetMate",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ncaw7ckebj",
-      "Integrity": "mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=",
+      "Fingerprint": "vb0tvieg6u",
+      "Integrity": "FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css"
@@ -52,32 +52,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ncaw7ckebj",
-      "Integrity": "mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=",
+      "Fingerprint": "vb0tvieg6u",
+      "Integrity": "FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
-      "SourceId": "Coursework-BudgetMate",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "credientials#[.{fingerprint}]?.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yexm3qh8uy",
-      "Integrity": "qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\credientials.json"
     },
     {
       "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",
@@ -143,6 +122,48 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\credentials.json",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Data/credentials#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d41t4fog5j",
+      "Integrity": "7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\credentials.json"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\transactionhistory.json",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Data/transactionhistory#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "29928adldv",
+      "Integrity": "quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\transactionhistory.json"
+    },
+    {
       "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\favicon.png",
       "SourceId": "Coursework-BudgetMate",
       "SourceType": "Discovered",
@@ -197,7 +218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15018"
+          "Value": "20882"
         },
         {
           "Name": "Content-Type",
@@ -205,11 +226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -219,97 +240,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
-        }
-      ]
-    },
-    {
-      "Route": "Coursework-BudgetMate.ncaw7ckebj.bundle.scp.css",
-      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ncaw7ckebj"
-        },
-        {
-          "Name": "label",
-          "Value": "Coursework-BudgetMate.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
-        }
-      ]
-    },
-    {
-      "Route": "Coursework-BudgetMate.ncaw7ckebj.styles.css",
-      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ncaw7ckebj"
-        },
-        {
-          "Name": "label",
-          "Value": "Coursework-BudgetMate.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
         }
       ]
     },
@@ -324,7 +255,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15018"
+          "Value": "20882"
         },
         {
           "Name": "Content-Type",
@@ -332,11 +263,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -346,13 +277,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
         }
       ]
     },
     {
-      "Route": "credientials.json",
-      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
+      "Route": "Coursework-BudgetMate.vb0tvieg6u.bundle.scp.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -361,56 +292,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50"
+          "Value": "20882"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/json"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
-        }
-      ]
-    },
-    {
-      "Route": "credientials.yexm3qh8uy.json",
-      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -420,15 +314,60 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yexm3qh8uy"
+          "Value": "vb0tvieg6u"
         },
         {
           "Name": "label",
-          "Value": "credientials.json"
+          "Value": "Coursework-BudgetMate.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
+        }
+      ]
+    },
+    {
+      "Route": "Coursework-BudgetMate.vb0tvieg6u.styles.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vb0tvieg6u"
+        },
+        {
+          "Name": "label",
+          "Value": "Coursework-BudgetMate.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
         }
       ]
     },
@@ -675,6 +614,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "Data/credentials.d41t4fog5j.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\credentials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 17:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d41t4fog5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/credentials.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE="
+        }
+      ]
+    },
+    {
+      "Route": "Data/credentials.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\credentials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 17:16:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE="
+        }
+      ]
+    },
+    {
+      "Route": "Data/transactionhistory.29928adldv.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\transactionhistory.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:37:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29928adldv"
+        },
+        {
+          "Name": "label",
+          "Value": "Data/transactionhistory.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s="
+        }
+      ]
+    },
+    {
+      "Route": "Data/transactionhistory.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\transactionhistory.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:37:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s="
         }
       ]
     },

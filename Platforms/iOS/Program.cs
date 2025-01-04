@@ -3,7 +3,7 @@ using UIKit;
 
 namespace Coursework_BudgetMate;
 
-public class Program
+public static partial class Program
 {
     // This is the main entry point of the application.
     static void Main(string[] args)

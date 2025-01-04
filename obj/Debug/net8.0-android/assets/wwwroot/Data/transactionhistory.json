@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2025-01-01",
+    "title": "Groceries",
+    "amount": 50.75,
+    "tags": ["Food", "Essential"],
+    "note": "Bought fruits and vegetables"
+  },
+  {
+    "date": "2025-01-02",
+    "title": "Electricity Bill",
+    "amount": 75.0,
+    "tags": ["Utilities"],
+    "note": "Monthly bill payment"
+  }
+]

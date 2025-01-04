@@ -1,30 +1,19 @@
 @page "/dashboard"
 
 <div class="dashboard-container">
-    <!-- Sidebar -->
-    <div class="sidebar">
-        <div class="logo-section">
-            <h1 class="logo">BudgetMate</h1>
+    <nav class="sidebar">
+        <div class="logo">
+            <h1>BudgetMate</h1>
         </div>
-        
-        <nav class="nav-menu">
-            <NavLink href="/dashboard" class="nav-item active">
-                <span>Dashboard</span>
-            </NavLink>
-            <NavLink href="" class="nav-item">
-                <span>Transactions</span>
-            </NavLink>
-            <NavLink href="/debtManagement" class="nav-item">
-                <span>Debt Management</span>
-            </NavLink>
-            <NavLink href="/transactionHistory" class="nav-item">
-                <span>Transaction History</span>
-            </NavLink>
-            <div class="nav-item">
-                <span>Settings</span>
-            </div>
-        </nav>
-    </div>
+
+        <ul class="nav-links">
+            <li><a href="/dashboard" class="active">Dashboard</a></li>
+            <li><a href="/addtransaction" >Transactions</a></li>
+            <li><a href="/debtManagement">Debt Management</a></li>
+            <li><a href="/transactionHistory">Transaction History</a></li>
+            <li><a href="/settings">Settings</a></li>
+        </ul>
+    </nav>
 
     <div class="main-content">
         <!-- Header -->

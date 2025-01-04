@@ -1,8 +1,10 @@
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
+Components\Pages\Addtransaction.razor.css
 Components\Pages\Dashboard.razor.css
 Components\Pages\DebtManagement.razor.css
 Components\Pages\Login.razor.css
+Components\Pages\Settings.razor.css
 Components\Pages\TransactionHistory.razor.css
 OpenSans-Regular.ttf
 appicon.ico
@@ -62,11 +64,12 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\Coursework-BudgetMate.styles.css
-wwwroot\Coursework-BudgetMate.ncaw7ckebj.bundle.scp.css
+wwwroot\Coursework-BudgetMate.vb0tvieg6u.bundle.scp.css
 AboutAssets.txt
-wwwroot\credientials.json
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\Data\credentials.json
+wwwroot\Data\transactionhistory.json
 wwwroot\favicon.png
 wwwroot\index.html

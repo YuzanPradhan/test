@@ -1,0 +1,58 @@
+@page "/settings"
+@inject NavigationManager NavigationManager
+
+
+<div class="dashboard-container">
+    <nav class="sidebar">
+        <div class="logo">
+            <h1>BudgetMate</h1>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="/dashboard">Dashboard</a></li>
+            <li><a href="/addtransaction" >Transactions</a></li>
+            <li><a href="/debtManagement">Debt Management</a></li>
+            <li><a href="/transactionHistory">Transaction History</a></li>
+            <li><a href="/settings" class="active">Settings</a></li>
+        </ul>
+    </nav>
+
+    <div class="main-content">
+        <!-- Header -->
+        <header class="header">
+            <h1>Settings</h1>
+            <button class="logout-btn" @onclick="Logout">Logout</button>
+        </header>
+
+        <!-- Settings Content -->
+        <div class="settings-container">
+            <div class="settings-content">
+                <div class="input-group">
+                    <input type="text" class="input" placeholder="Update Username" />
+                </div>
+                
+                <div class="input-group">
+                    <input type="password" class="input" placeholder="Change Password" />
+                </div>
+                
+                <div class="input-group">
+                    <input type="text" class="input" placeholder="Change Currency" />
+                </div>
+                
+                <div class="button-group">
+                    <button class="btn btn-primary">Save Settings</button>
+                    <button class="btn btn-success">Export Data</button>
+                    <button class="btn btn-warning">Import Data</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+    private void Logout()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

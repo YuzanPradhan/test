@@ -5,8 +5,12 @@
       "PackagePath": "staticwebassets\\Coursework-BudgetMate.styles.css"
     },
     {
-      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
-      "PackagePath": "staticwebassets\\credientials.json"
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\credentials.json",
+      "PackagePath": "staticwebassets\\Data\\credentials.json"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\Data\\transactionhistory.json",
+      "PackagePath": "staticwebassets\\Data\\transactionhistory.json"
     },
     {
       "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",

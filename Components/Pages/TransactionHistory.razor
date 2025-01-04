@@ -1,88 +1,58 @@
 @page "/transactionHistory"
-@inject NavigationManager NavigationManager
+@using Coursework_BudgetMate.Service.Interface
 
 <div class="dashboard-container">
-    <div class="sidebar">
-        <div class="logo-section">
-            <h1 class="logo">BudgetMate</h1>
+    <nav class="sidebar">
+        <div class="logo">
+            <h1>BudgetMate</h1>
         </div>
-        
-        <nav class="nav-menu">
-            <NavLink href="/dashboard" class="nav-item">
-                <span>Dashboard</span>
-            </NavLink>
-            <NavLink href="" class="nav-item">
-                <span>Transactions</span>
-            </NavLink>
-            <NavLink href="/debtManagement" class="nav-item">
-                <span>Debt Management</span>
-            </NavLink>
-            <NavLink href="/transactionHistory" class="nav-item active">
-                <span>Transaction History</span>
-            </NavLink>
-            <div class="nav-item">
-                <span>Settings</span>
-            </div>
-        </nav>
-    </div>
+
+        <ul class="nav-links">
+            <li><a href="/dashboard">Dashboard</a></li>
+            <li><a href="/addtransaction" >Transactions</a></li>
+            <li><a href="/debtManagement">Debt Management</a></li>
+            <li><a href="/transactionHistory" class="active">Transaction History</a></li>
+            <li><a href="/settings">Settings</a></li>
+        </ul>
+    </nav>
 
     <div class="main-content">
         <!-- Header -->
         <header class="header">
             <h1>Transaction History</h1>
-            <button class="logout-btn" @onclick="Logout">Logout</button>
         </header>
 
-        <!-- Transactions Table -->
-        <div class="transactions-section">
-            <table class="transactions-table">
-                <thead>
+        <div class="content">
+            @if (_transactionHistoryList == null || !_transactionHistoryList.Any())
+            {
+                <p>No transactions found.</p>
+            }
+            else
+            {
+                <table class="transactions-table">
+                    <thead>
                     <tr>
                         <th>Date</th>
                         <th>Title</th>
                         <th>Amount</th>
-                        <th>Category</th>
-                        <th>Status</th>
+                        <th>Tags</th>
+                        <th>Note</th>
                     </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>2024-02-20</td>
-                        <td>Groceries</td>
-                        <td>$200</td>
-                        <td>Debit</td>
-                        <td>Completed</td>
-                    </tr>
-                    <tr>
-                        <td>2024-02-19</td>
-                        <td>Salary</td>
-                        <td>$3000</td>
-                        <td>Credit</td>
-                        <td>Completed</td>
-                    </tr>
-                    <tr>
-                        <td>2024-02-18</td>
-                        <td>Rent</td>
-                        <td>$1200</td>
-                        <td>Debit</td>
-                        <td>Pending</td>
-                    </tr>
-                    <tr>
-                        <td>2024-02-17</td>
-                        <td>Utilities</td>
-                        <td>$150</td>
-                        <td>Debit</td>
-                        <td>Completed</td>
-                    </tr>
-                    <tr>
-                        <td>2024-02-16</td>
-                        <td>Investment</td>
-                        <td>$500</td>
-                        <td>Credit</td>
-                        <td>Completed</td>
-                    </tr>
-                </tbody>
-            </table>
+                    </thead>
+                    <tbody>
+                    @foreach (var transaction in _transactionHistoryList)
+                    {
+                        <tr>
+                            <td>@transaction.Date</td>
+                            <td>@transaction.Title</td>
+                            <td>@transaction.Amount.ToString("C")</td>
+                            <td>@string.Join(", ", transaction.Tags)</td>
+                            <td>@transaction.Note</td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            }
         </div>
     </div>
 </div>

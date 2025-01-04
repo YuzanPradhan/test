@@ -3,51 +3,6 @@
   "ManifestType": "Publish",
   "Endpoints": [
     {
-      "Route": "Coursework-BudgetMate.ncaw7ckebj.styles.css",
-      "AssetFile": "Coursework-BudgetMate.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ncaw7ckebj"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
-        },
-        {
-          "Name": "label",
-          "Value": "Coursework-BudgetMate.styles.css"
-        }
-      ]
-    },
-    {
       "Route": "Coursework-BudgetMate.styles.css",
       "AssetFile": "Coursework-BudgetMate.styles.css",
       "Selectors": [],
@@ -62,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15018"
+          "Value": "20882"
         },
         {
           "Name": "Content-Type",
@@ -70,60 +25,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 13:47:33 GMT"
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
         }
       ]
     },
     {
-      "Route": "credientials.json",
-      "AssetFile": "credientials.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "50"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
-        }
-      ]
-    },
-    {
-      "Route": "credientials.yexm3qh8uy.json",
-      "AssetFile": "credientials.json",
+      "Route": "Coursework-BudgetMate.vb0tvieg6u.styles.css",
+      "AssetFile": "Coursework-BudgetMate.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -136,7 +54,52 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "50"
+          "Value": "20882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:46:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vb0tvieg6u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXKsbZQ05bPR0t2wkAp5X6pBka5RICoZPsijLQ5Pdl0="
+        },
+        {
+          "Name": "label",
+          "Value": "Coursework-BudgetMate.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "Data/credentials.d41t4fog5j.json",
+      "AssetFile": "Data/credentials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40"
         },
         {
           "Name": "Content-Type",
@@ -144,25 +107,144 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
+          "Value": "\"7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
+          "Value": "Sat, 04 Jan 2025 17:16:58 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yexm3qh8uy"
+          "Value": "d41t4fog5j"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
+          "Value": "sha256-7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE="
         },
         {
           "Name": "label",
-          "Value": "credientials.json"
+          "Value": "Data/credentials.json"
+        }
+      ]
+    },
+    {
+      "Route": "Data/credentials.json",
+      "AssetFile": "Data/credentials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 17:16:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Uq5eLrbiAJj3GQ394VOjRq35Ni12qNdekmBjiMG+jE="
+        }
+      ]
+    },
+    {
+      "Route": "Data/transactionhistory.29928adldv.json",
+      "AssetFile": "Data/transactionhistory.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:37:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "29928adldv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s="
+        },
+        {
+          "Name": "label",
+          "Value": "Data/transactionhistory.json"
+        }
+      ]
+    },
+    {
+      "Route": "Data/transactionhistory.json",
+      "AssetFile": "Data/transactionhistory.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 20:37:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-quQ+j8+6XRPBBF4Z5FVwEaGLY2XAvd0I1zbHuNQvV/s="
         }
       ]
     },

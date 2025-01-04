@@ -1,0 +1,65 @@
+@page "/addtransaction"
+@inject NavigationManager NavigationManager
+
+<div class="add-transaction-container">
+    <nav class="sidebar">
+        <div class="logo">
+            <h1>BudgetMate</h1>
+        </div>
+        
+        <ul class="nav-links">
+            <li><a href="/dashboard">Dashboard</a></li>
+            <li><a href="/addtransaction" class="active">Transactions</a></li>
+            <li><a href="/debtManagement">Debt Management</a></li>
+            <li><a href="/transactionHistory">Transaction History</a></li>
+            <li><a href="/settings">Settings</a></li>
+        </ul>
+    </nav>
+
+    <main class="main-content">
+        <header class="header">
+            <h1>Add Transaction</h1>
+            <button class="logout-btn" @onclick="Logout">Logout</button>
+        </header>
+
+        <div class="transaction-form">
+            <form class="form-container">
+                <div class="form-field">
+                    <input type="text" placeholder="Title" required>
+                </div>
+
+                <div class="form-field">
+                    <input type="number" placeholder="Amount" required>
+                </div>
+
+                <div class="form-field">
+                    <input type="date" required>
+                </div>
+
+                <div class="form-field">
+                    <input type="text" placeholder="Tags (optional)">
+                </div>
+
+                <div class="form-field">
+                    <textarea placeholder="Notes (optional)"></textarea>
+                </div>
+
+                <div class="currency-selector">
+                    <button type="button" class="currency-btn">USD</button>
+                    <button type="button" class="currency-btn">AUSD</button>
+                    <button type="button" class="currency-btn">NP</button>
+                </div>
+
+                <button type="submit" class="submit-btn">Save Transaction</button>
+            </form>
+        </div>
+    </main>
+</div>
+
+@code {
+    private void Logout()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}
+    

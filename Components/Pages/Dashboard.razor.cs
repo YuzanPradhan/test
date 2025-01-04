@@ -7,8 +7,8 @@ public partial class Dashboard
     
     [Inject]
     private NavigationManager NavigationManager { get; set; } = null!;
-    private void Logout()
-    {
-        NavigationManager.NavigateTo("/");
+        private void Logout()
+        {
+            NavigationManager.NavigateTo("/");
+        }
     }
-}

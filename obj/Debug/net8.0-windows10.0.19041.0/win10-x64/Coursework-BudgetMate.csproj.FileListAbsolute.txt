@@ -21,15 +21,19 @@ C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-wi
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Http.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
@@ -56,6 +60,7 @@ C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-wi
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
@@ -98,9 +103,11 @@ C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\bin\Debug\net8.0-wi
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.csproj.AssemblyReference.cache
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Addtransaction.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Dashboard.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\DebtManagement.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Settings.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\TransactionHistory.razor.rz.scp.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Coursework-BudgetMate.styles.css
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Coursework-BudgetMate.bundle.scp.css
@@ -190,6 +197,7 @@ C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-wi
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.AssemblyInfoInputs.cache
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.AssemblyInfo.cs
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.csproj.CoreCompileInputs.cache
+C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.sourcelink.json
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursewo.89A12188.Up2Date
 C:\Users\YUZAN\Desktop\Coursework\.net\Coursework-BudgetMate\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Coursework-BudgetMate.dll
