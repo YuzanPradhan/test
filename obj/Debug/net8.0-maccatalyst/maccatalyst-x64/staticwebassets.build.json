@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "K5/6BPsq3H28L82THGhG1bdDZuN1Trh3FpuqqEzRrFM=",
+  "Source": "Coursework-BudgetMate",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Coursework-BudgetMate\\wwwroot",
+      "Source": "Coursework-BudgetMate",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "Coursework-BudgetMate#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ncaw7ckebj",
+      "Integrity": "mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "Coursework-BudgetMate#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ncaw7ckebj",
+      "Integrity": "mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "credientials#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yexm3qh8uy",
+      "Integrity": "qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\credientials.json"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dex3usdpik",
+      "Integrity": "K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\favicon.png",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\index.html",
+      "SourceId": "Coursework-BudgetMate",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kn6sd6k4o",
+      "Integrity": "PPN3r9L48leh+GrDgKupBbctr/8nU3XeN1zfjB+Oa7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Coursework-BudgetMate.bundle.scp.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "Coursework-BudgetMate.ncaw7ckebj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\Coursework-BudgetMate.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ncaw7ckebj"
+        },
+        {
+          "Name": "label",
+          "Value": "Coursework-BudgetMate.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "Coursework-BudgetMate.ncaw7ckebj.styles.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ncaw7ckebj"
+        },
+        {
+          "Name": "label",
+          "Value": "Coursework-BudgetMate.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "Coursework-BudgetMate.styles.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 13:47:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSxa7vVTSpm5Kb4E7ZKxHc9cFtf0sWNvumNKV7jsIsQ="
+        }
+      ]
+    },
+    {
+      "Route": "credientials.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
+        }
+      ]
+    },
+    {
+      "Route": "credientials.yexm3qh8uy.json",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 08:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yexm3qh8uy"
+        },
+        {
+          "Name": "label",
+          "Value": "credientials.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qu15QGdQjKQXwBMPhzwFGrbcRxNa9ytSYzC7pETPYFI="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.dex3usdpik.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dex3usdpik"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K1bY5kgLeD7nMlhLfmEK3TdjOVTQGBzyOIF4YwRlzuQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "index.4kn6sd6k4o.html",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PPN3r9L48leh+GrDgKupBbctr/8nU3XeN1zfjB+Oa7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kn6sd6k4o"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PPN3r9L48leh+GrDgKupBbctr/8nU3XeN1zfjB+Oa7k="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PPN3r9L48leh+GrDgKupBbctr/8nU3XeN1zfjB+Oa7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 04 Jan 2025 07:36:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PPN3r9L48leh+GrDgKupBbctr/8nU3XeN1zfjB+Oa7k="
+        }
+      ]
+    }
+  ]
+}

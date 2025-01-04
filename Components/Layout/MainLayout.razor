@@ -1,0 +1,19 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager NavigationManager
+
+<div class="page">
+    @if (IsLoginPage)
+    {
+        <div class="top-row">
+            <a href="/">BudgetMate</a>
+        </div>
+    }
+
+    <main>
+        @Body
+    </main>
+</div>
+
+@code {
+    private bool IsLoginPage => NavigationManager.Uri.EndsWith("/");
+}

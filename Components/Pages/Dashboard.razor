@@ -1,0 +1,102 @@
+@page "/dashboard"
+
+<div class="dashboard-container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="logo-section">
+            <h1 class="logo">BudgetMate</h1>
+        </div>
+        
+        <nav class="nav-menu">
+            <NavLink href="/dashboard" class="nav-item active">
+                <span>Dashboard</span>
+            </NavLink>
+            <NavLink href="" class="nav-item">
+                <span>Transactions</span>
+            </NavLink>
+            <NavLink href="/debtManagement" class="nav-item">
+                <span>Debt Management</span>
+            </NavLink>
+            <NavLink href="/transactionHistory" class="nav-item">
+                <span>Transaction History</span>
+            </NavLink>
+            <div class="nav-item">
+                <span>Settings</span>
+            </div>
+        </nav>
+    </div>
+
+    <div class="main-content">
+        <!-- Header -->
+        <header class="header">
+            <h1>Dashboard</h1>
+            <button class="logout-btn" @onclick="Logout">Logout</button>
+        </header>
+
+        <!-- Stats Cards -->
+        <div class="stats-grid">
+            <div class="stat-card inflow">
+                <div class="stat-amount">$5,000</div>
+                <div class="stat-label">Total Inflow</div>
+            </div>
+            <div class="stat-card outflow">
+                <div class="stat-amount">$3,000</div>
+                <div class="stat-label">Total Outflow</div>
+            </div>
+            <div class="stat-card pending">
+                <div class="stat-amount">$1,000</div>
+                <div class="stat-label">Pending Debts</div>
+            </div>
+            <div class="stat-card cleared">
+                <div class="stat-amount">$2,000</div>
+                <div class="stat-label">Cleared Debts</div>
+            </div>
+        </div>
+
+        <!-- Chart Section -->
+        <div class="chart-section">
+            <!-- Chart will be implemented separately -->
+        </div>
+
+        <!-- Transactions Table -->
+        <div class="transactions-section">
+            <h2>Top Transactions</h2>
+            <table class="transactions-table">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Amount</th>
+                        <th>Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Groceries</td>
+                        <td>$200</td>
+                        <td>Debit</td>
+                    </tr>
+                    <tr>
+                        <td>Salary</td>
+                        <td>$3000</td>
+                        <td>Credit</td>
+                    </tr>
+                    <tr>
+                        <td>Rent</td>
+                        <td>$1200</td>
+                        <td>Debit</td>
+                    </tr>
+                    <tr>
+                        <td>Utilities</td>
+                        <td>$150</td>
+                        <td>Debit</td>
+                    </tr>
+                    <tr>
+                        <td>Investment</td>
+                        <td>$500</td>
+                        <td>Credit</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

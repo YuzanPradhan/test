@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Coursework-BudgetMate.styles.css",
+      "PackagePath": "staticwebassets\\Coursework-BudgetMate.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\credientials.json",
+      "PackagePath": "staticwebassets\\credientials.json"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\YUZAN\\Desktop\\Coursework\\.net\\Coursework-BudgetMate\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Coursework-BudgetMate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Coursework-BudgetMate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Coursework-BudgetMate.props",
+      "PackagePath": "build\\Coursework-BudgetMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Coursework-BudgetMate.props",
+      "PackagePath": "buildMultiTargeting\\Coursework-BudgetMate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Coursework-BudgetMate.props",
+      "PackagePath": "buildTransitive\\Coursework-BudgetMate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

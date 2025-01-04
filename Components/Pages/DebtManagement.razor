@@ -1,0 +1,91 @@
+@page "/debtManagement"
+@inject NavigationManager NavigationManager
+
+<div class="page-container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="logo-section">
+            <h1 class="budgetmate-title">BudgetMate</h1>
+        </div>
+        <nav class="nav-menu">
+            <NavLink href="/dashboard" class="nav-item">
+                <span>Dashboard</span>
+            </NavLink>
+            <NavLink href="/transactions" class="nav-item">
+                <span>Transactions</span>
+            </NavLink>
+            <NavLink href="/debtManagement" class="nav-item active">
+                <span>Debt Management</span>
+            </NavLink>
+            <NavLink href="/transactionHistory" class="nav-item">
+                <span>Transaction History</span>
+            </NavLink>
+            <div class="nav-item">
+                <span>Settings</span>
+            </div>
+        </nav>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h2>Debt Management</h2>
+            <button class="logout-btn" @onclick="Logout">Logout</button>
+        </div>
+
+        <!-- Main Table -->
+        <table class="debt-table">
+            <thead>
+            <tr>
+                <th>Debt Source</th>
+                <th>Due Date</th>
+                <th>Status</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Car Loan</td>
+                <td>2023-12-01</td>
+                <td class="overdue">Overdue</td>
+            </tr>
+            <tr>
+                <td>Credit Card</td>
+                <td>2023-11-15</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td>Personal Loan</td>
+                <td>2023-10-30</td>
+                <td>Pending</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <!-- Pending Debts Section -->
+        <h2 class="section-title">Pending Debts</h2>
+        <div class="debt-cards">
+            <div class="debt-card">
+                <h3>Car Loan</h3>
+                <p>Due Date: 2023-12-01</p>
+                <p class="status overdue">Status: Overdue</p>
+            </div>
+            <div class="debt-card">
+                <h3>Credit Card</h3>
+                <p>Due Date: 2023-11-15</p>
+                <p class="status pending">Status: Pending</p>
+            </div>
+            <div class="debt-card">
+                <h3>Personal Loan</h3>
+                <p>Due Date: 2023-10-30</p>
+                <p class="status pending">Status: Pending</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private void Logout()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}
+    

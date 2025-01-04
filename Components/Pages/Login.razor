@@ -1,0 +1,24 @@
+﻿@page "/"
+
+<div class="desktop-1">
+    <div class="frame">
+        <h2 class="welcome-text">Welcome to BudgetMate</h2>
+        <input name="Username" type="text" class="input-field" placeholder="Username" @bind="Users.Username"/>
+        <input name="password" type="password" class="input-field" placeholder="Password" @bind="Users.Password" />
+        
+        <div class="currency-buttons">
+            @* <button class="currency-button @(_selectedCurrency == "USD" ? "active" : "")"  *@
+            @*         @onclick='() => SelectCurrency("USD")'>USD</button> *@
+            @* <button class="currency-button @(_selectedCurrency == "AUSD" ? "active" : "")"  *@
+            @*         @onclick='() => SelectCurrency("AUSD")'>AUSD</button> *@
+            @* <button class="currency-button @(_selectedCurrency == "NP" ? "active" : "")"  *@
+            @*         @onclick='() => SelectCurrency("NP")'>NP</button> *@
+        </div>
+        
+        <button class="get-started" @onclick="HandleLogin">Get Started</button>
+        @if (!string.IsNullOrEmpty(_errorMessage))
+        {
+            <div class="error-message">@_errorMessage</div>
+        }
+    </div>
+</div>
